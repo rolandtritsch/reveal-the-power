@@ -1,5 +1,5 @@
 #+TITLE: The Power of Why
-#+SUBTITLE: Connecting people to work that matters
+#+SUBTITLE: Connecting the Dots 
 #+DATE: {{{time(%Y-%m-%d %H:%M:%S)}}}
 #+AUTHOR: Roland Tritsch
 #+EMAIL: roland@tritsch.email
@@ -10,94 +10,58 @@
 #+OPTIONS: title:nil author:nil email:nil date:nil timestamp:nil toc:nil num:nil
 #+REVEAL_PLUGINS: (notes highlight)
 
-* Why This Matters
+* Why are we talking about this?
 
 ** Engagement 102
 
+Poeple do not leave companies. They leave managers.
+
+**Poeple want to work for something (a mission/purpose) or somebody.**
+
+** The Cathedral
+
 #+REVEAL_HTML: <img src="./images/camelot.jpeg" width="30%"/>
-
-People do not stay committed because a company has a good slogan.
-
-They stay committed when they can connect their work to something they care about.
-
-#+BEGIN_NOTES
-The original deck framed this as "how to make people stay." The stronger framing is about helping people decide what is worth caring about.
-#+END_NOTES
-
-** The Leadership Question
 
 As leaders, we need to be able to answer two questions:
 
-- Why does this work matter?
-- Why should the person in front of me care?
+- What are we building/doing?
+- Why does what we do matter?
 
-#+BEGIN_NOTES
-The second question is the one leaders skip most often. Generic purpose does not create commitment.
-#+END_NOTES
+**Let's build a cathedral!**
 
-* Reasons People Stay
+* Reasons why people work
 
-** Weak Reasons
+** Weak reasons
 
-- More money than somewhere else
+- Money
 - Work-life balance
 - Having fun
 - Learning something useful
 - Waiting for the exit or the next better offer
-
-#+REVEAL_HTML: <p style="font-size: 1.3em;"><strong>These reasons are weak because they are easy to copy.</strong></p>
-
-#+BEGIN_NOTES
-These are not bad reasons. They matter. But they are not differentiated, and they rarely create durable commitment by themselves.
-#+END_NOTES
 
 ** Strong Reasons
 
 - I believe in the purpose of the work
 - I can explain why it matters to me
 - I am growing by doing something difficult
-- I get to work with people whose example teaches me
+- I get to work with people whose example teaches me something
 
-#+BEGIN_NOTES
-This is the move from perks and conditions to meaning and growth.
-#+END_NOTES
+** Something or Someone
 
-** Something Or Someone
+You either work for **something** or **someone**.
 
-#+REVEAL_HTML: <p style="font-size: 1.6em;">You are either working for <strong>something</strong> or <strong>someone</strong>.</p>
+** Something or Someone
 
-** Caring Is The Point
+You either **care** for **something** or **someone**.
 
-#+REVEAL_HTML: <p style="font-size: 1.6em;">You are either <s>working</s> <strong><u>caring</u></strong> for <strong>something</strong> or <strong>someone</strong>.</p>
+* How to make people care?
 
-#+BEGIN_NOTES
-This is the center of the talk. Engagement is not a trick. It is care, directed at something real.
-#+END_NOTES
-
-** Meaning
-
-#+BEGIN_QUOTE
-The greatest task for any person is to find meaning in his or her life. There are three possible sources for meaning: in work, in love, and in courage during difficult times.
-
--- Viktor Frankl
-#+END_QUOTE
-
-** Why And How
-
-#+BEGIN_QUOTE
-He who has a why to live for can bear almost any how.
-
--- Friedrich Nietzsche
-#+END_QUOTE
-
-* Make People Care
-
-** Ask Why
+** Ask Why!
 
 Once a month, ask:
 
-#+REVEAL_HTML: <p style="font-size: 1.3em;"><strong>Why do you do what you do?</strong></p>
-#+REVEAL_HTML: <p style="font-size: 1.3em;"><strong>Why does it matter?</strong></p>
+- Why do you do what you do?
+- Why does it matter?
 
 Possible answers:
 
@@ -105,85 +69,81 @@ Possible answers:
 - Because you told me to do it
 - Because this matters to me
 
-#+BEGIN_NOTES
-The first two answers are signals. They tell you where leadership work is needed.
-#+END_NOTES
-
-** Building Cathedrals
+** Connect the dots
 
 #+REVEAL_HTML: <img src="./images/cathedral.jpeg" width="50%"/>
 
-#+BEGIN_NOTES
-The cathedral story is useful because it separates the task from the meaning of the task.
-#+END_NOTES
-
-** Connect The Dots
-
 Be prepared to explain:
 
-- the cathedral we are building
+- how the cathedral we are building looks like
 - why this person's work matters
 - why your work matters
 - how their work helps other people succeed
 
-#+BEGIN_NOTES
-Do not make people infer the connection. Say it clearly, repeatedly, and personally.
-#+END_NOTES
-
-** Repeat The Practice
+** Rinse and repeat
 
 - Ask why
 - Listen carefully
 - Connect the dots
 - Repeat every month
-- Care enough to notice when the answer changes
 
 * More Thoughts
 
-** Care Has Shape
+** Care comes in two shapes (I)
 
 Care for:
 
-- a group of people
 - one person
+- a group of people
 - a team you lead
 - a team you belong to
 
+** Care comes in two shapes (II)
+
 Care about:
 
-- a big idea
-- a small task
-- a responsibility nobody else sees
+- a big idea/a small task
+- a value/believe (e.g. trust, respect, camaraderie, ...)  
 
-** Choose Deliberately
+** Choose
 
-#+REVEAL_HTML: <p style="font-size: 1.5em;"><strong>You need to choose what to care for and what to care about.</strong></p>
+**You need to choose who to care about and what to care about!**
 
-If you never choose, the work will choose for you.
-
-#+BEGIN_NOTES
-The old version said, "Otherwise you will be unhappy." Keep the point, but make it more precise.
-#+END_NOTES
+Nobody else can do this for you!
 
 ** Belonging
 
-#+REVEAL_HTML: <p style="font-size: 1.5em;">Care creates belonging.</p>
+Care creates belonging. Everyone wants to belong.
 
-Everyone wants to belong to something or somebody.
+(Don't think that you do not want/need to belong)
 
-Even the most independent people should not fight that too hard.
+* Invitation
+
+** Wanna build this with me?
+
+#+REVEAL_HTML: <img src="./images/cathedral.jpeg" width="50%"/>
+
+** Wanna save this with me?
+
+#+REVEAL_HTML: <img src="./images/planet.jpeg" width="50%"/>
+
+* Quotes
 
 ** Motivation
 
-#+REVEAL_HTML: <p style="font-size: 1.4em;">Autonomy<br/>Mastery<br/>Purpose</p>
+#+BEGIN_QUOTE
+Autonomy, Mastery and Purpose
 
 -- Dan Pink
+#+END_QUOTE
 
 ** The Element
 
-#+REVEAL_HTML: <p style="font-size: 1.4em;">Talent meets<br/>Passion meets<br/>Purpose</p>
+#+BEGIN_QUOTE
+Talent meets Passion and Purpose
 
 -- Sir Ken Robinson
+#+END_QUOTE
 
 ** Leadership
 
@@ -193,33 +153,30 @@ Leadership comes down to believing so strongly in the future you want that your 
 -- Max Levchin
 #+END_QUOTE
 
-** TED Talk
+** Leadership
+
+#+BEGIN_QUOTE
+Leadership is the ability to inspire others to deliver on shared objectives.
+
+-- Jeff Weimer
+#+END_QUOTE
+
+** Meaning
+
+#+BEGIN_QUOTE
+The greatest task for any person is to find meaning in his or her life. There are three possible sources for meaning: in work, in love, and in courage during difficult times.
+
+-- Viktor Frankl
+#+END_QUOTE
+
+** Why
+
+#+BEGIN_QUOTE
+He who has a why to live for can bear almost any how.
+
+-- Friedrich Nietzsche
+#+END_QUOTE
+
+** The Power of Why
 
 - Simon Sinek: [[https://youtu.be/u4ZoJKF_VuA][How great leaders inspire action]]
-
-* Invitation
-
-** Wanna Build This With Me?
-
-#+REVEAL_HTML: <img src="./images/cathedral.jpeg" width="30%"/>
-
-The strongest invitation is not "work harder."
-
-It is "help build this."
-
-** Wanna Save This With Me?
-
-#+REVEAL_HTML: <img src="./images/planet.jpeg" width="30%"/>
-
-The work gets stronger when people can see why it matters beyond the task list.
-
-** Ask Better
-
-- What are we building?
-- Who are we serving?
-- Why does it matter?
-- Why should this person care?
-
-#+BEGIN_NOTES
-Close by bringing the audience back to the monthly practice: ask, listen, connect, repeat.
-#+END_NOTES
