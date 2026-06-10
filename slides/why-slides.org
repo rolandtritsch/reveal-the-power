@@ -71,7 +71,7 @@ Possible answers:
 
 ** Connect the dots
 
-#+REVEAL_HTML: <img src="./images/cathedral.jpeg" width="50%"/>
+#+REVEAL_HTML: <img src="./images/cathedral.jpeg" width="30%"/>
 
 Be prepared to explain:
 
@@ -121,11 +121,13 @@ Care creates belonging. Everyone wants to belong.
 
 ** Wanna build this with me?
 
-#+REVEAL_HTML: <img src="./images/cathedral.jpeg" width="50%"/>
+#+REVEAL_HTML: <img src="./images/cathedral.jpeg" width="60%"/>
 
 ** Wanna save this with me?
 
-#+REVEAL_HTML: <img src="./images/planet.jpeg" width="50%"/>
+#+REVEAL_HTML: <img src="./images/planet.jpeg" width="80%"/>
+
+* Questions?
 
 * Quotes
 
