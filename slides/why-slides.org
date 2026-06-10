@@ -1,0 +1,225 @@
+#+TITLE: The Power of Why
+#+SUBTITLE: Connecting people to work that matters
+#+DATE: {{{time(%Y-%m-%d %H:%M:%S)}}}
+#+AUTHOR: Roland Tritsch
+#+EMAIL: roland@tritsch.email
+#+REVEAL_VERSION: 4
+#+REVEAL_THEME: simple
+#+REVEAL_INIT_OPTIONS: width:"70%", margin:0.2, slideNumber:"c/t", transition:"convex"
+#+REVEAL_TITLE_SLIDE: <h1 class=title>%t</h1><h3 class=title>%s</h3><img src="./images/camelot.jpeg" width="320"/><h4 class=email>%e</h4><p class=date style="font-size: 0.5em">Version - %d</p>
+#+OPTIONS: title:nil author:nil email:nil date:nil timestamp:nil toc:nil num:nil
+#+REVEAL_PLUGINS: (notes highlight)
+
+* Why This Matters
+
+** Engagement 102
+
+#+REVEAL_HTML: <img src="./images/camelot.jpeg" width="30%"/>
+
+People do not stay committed because a company has a good slogan.
+
+They stay committed when they can connect their work to something they care about.
+
+#+BEGIN_NOTES
+The original deck framed this as "how to make people stay." The stronger framing is about helping people decide what is worth caring about.
+#+END_NOTES
+
+** The Leadership Question
+
+As leaders, we need to be able to answer two questions:
+
+- Why does this work matter?
+- Why should the person in front of me care?
+
+#+BEGIN_NOTES
+The second question is the one leaders skip most often. Generic purpose does not create commitment.
+#+END_NOTES
+
+* Reasons People Stay
+
+** Weak Reasons
+
+- More money than somewhere else
+- Work-life balance
+- Having fun
+- Learning something useful
+- Waiting for the exit or the next better offer
+
+#+REVEAL_HTML: <p style="font-size: 1.3em;"><strong>These reasons are weak because they are easy to copy.</strong></p>
+
+#+BEGIN_NOTES
+These are not bad reasons. They matter. But they are not differentiated, and they rarely create durable commitment by themselves.
+#+END_NOTES
+
+** Strong Reasons
+
+- I believe in the purpose of the work
+- I can explain why it matters to me
+- I am growing by doing something difficult
+- I get to work with people whose example teaches me
+
+#+BEGIN_NOTES
+This is the move from perks and conditions to meaning and growth.
+#+END_NOTES
+
+** Something Or Someone
+
+#+REVEAL_HTML: <p style="font-size: 1.6em;">You are either working for <strong>something</strong> or <strong>someone</strong>.</p>
+
+** Caring Is The Point
+
+#+REVEAL_HTML: <p style="font-size: 1.6em;">You are either <s>working</s> <strong><u>caring</u></strong> for <strong>something</strong> or <strong>someone</strong>.</p>
+
+#+BEGIN_NOTES
+This is the center of the talk. Engagement is not a trick. It is care, directed at something real.
+#+END_NOTES
+
+** Meaning
+
+#+BEGIN_QUOTE
+The greatest task for any person is to find meaning in his or her life. There are three possible sources for meaning: in work, in love, and in courage during difficult times.
+
+-- Viktor Frankl
+#+END_QUOTE
+
+** Why And How
+
+#+BEGIN_QUOTE
+He who has a why to live for can bear almost any how.
+
+-- Friedrich Nietzsche
+#+END_QUOTE
+
+* Make People Care
+
+** Ask Why
+
+Once a month, ask:
+
+#+REVEAL_HTML: <p style="font-size: 1.3em;"><strong>Why do you do what you do?</strong></p>
+#+REVEAL_HTML: <p style="font-size: 1.3em;"><strong>Why does it matter?</strong></p>
+
+Possible answers:
+
+- I do not know
+- Because you told me to do it
+- Because this matters to me
+
+#+BEGIN_NOTES
+The first two answers are signals. They tell you where leadership work is needed.
+#+END_NOTES
+
+** Building Cathedrals
+
+#+REVEAL_HTML: <img src="./images/cathedral.jpeg" width="50%"/>
+
+#+BEGIN_NOTES
+The cathedral story is useful because it separates the task from the meaning of the task.
+#+END_NOTES
+
+** Connect The Dots
+
+Be prepared to explain:
+
+- the cathedral we are building
+- why this person's work matters
+- why your work matters
+- how their work helps other people succeed
+
+#+BEGIN_NOTES
+Do not make people infer the connection. Say it clearly, repeatedly, and personally.
+#+END_NOTES
+
+** Repeat The Practice
+
+- Ask why
+- Listen carefully
+- Connect the dots
+- Repeat every month
+- Care enough to notice when the answer changes
+
+* More Thoughts
+
+** Care Has Shape
+
+Care for:
+
+- a group of people
+- one person
+- a team you lead
+- a team you belong to
+
+Care about:
+
+- a big idea
+- a small task
+- a responsibility nobody else sees
+
+** Choose Deliberately
+
+#+REVEAL_HTML: <p style="font-size: 1.5em;"><strong>You need to choose what to care for and what to care about.</strong></p>
+
+If you never choose, the work will choose for you.
+
+#+BEGIN_NOTES
+The old version said, "Otherwise you will be unhappy." Keep the point, but make it more precise.
+#+END_NOTES
+
+** Belonging
+
+#+REVEAL_HTML: <p style="font-size: 1.5em;">Care creates belonging.</p>
+
+Everyone wants to belong to something or somebody.
+
+Even the most independent people should not fight that too hard.
+
+** Motivation
+
+#+REVEAL_HTML: <p style="font-size: 1.4em;">Autonomy<br/>Mastery<br/>Purpose</p>
+
+-- Dan Pink
+
+** The Element
+
+#+REVEAL_HTML: <p style="font-size: 1.4em;">Talent meets<br/>Passion meets<br/>Purpose</p>
+
+-- Sir Ken Robinson
+
+** Leadership
+
+#+BEGIN_QUOTE
+Leadership comes down to believing so strongly in the future you want that your enthusiasm, confidence, and drive in getting there infects those around you, and the reality of today transforms into that vision of tomorrow through shared work and sacrifice.
+
+-- Max Levchin
+#+END_QUOTE
+
+** TED Talk
+
+- Simon Sinek: [[https://youtu.be/u4ZoJKF_VuA][How great leaders inspire action]]
+
+* Invitation
+
+** Wanna Build This With Me?
+
+#+REVEAL_HTML: <img src="./images/cathedral.jpeg" width="30%"/>
+
+The strongest invitation is not "work harder."
+
+It is "help build this."
+
+** Wanna Save This With Me?
+
+#+REVEAL_HTML: <img src="./images/planet.jpeg" width="30%"/>
+
+The work gets stronger when people can see why it matters beyond the task list.
+
+** Ask Better
+
+- What are we building?
+- Who are we serving?
+- Why does it matter?
+- Why should this person care?
+
+#+BEGIN_NOTES
+Close by bringing the audience back to the monthly practice: ask, listen, connect, repeat.
+#+END_NOTES
